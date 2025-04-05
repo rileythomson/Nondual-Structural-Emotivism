@@ -50,7 +50,7 @@ Please cite as follows:
   author = {Riley Thomson},
   title = {Nondual Structural Emotivism (NSE): A Metaethical Framework for Emotional-Intuitive Coherence in Conscious Moral Life},
   year = {2025},
-  url = {https://github.com/<your_username>/Nondual-Structural-Emotivism}
+  url = {https://github.com/rileythomson/Nondual-Structural-Emotivism}
 }
 
 
