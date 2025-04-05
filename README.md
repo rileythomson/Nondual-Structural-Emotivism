@@ -39,5 +39,18 @@ NSE is applicable to diverse fields:
 
 ---
 
-## 🔨 Repository Structure
+## 📝 Licence and Attribution
+
+This project is licensed under the [Apache Licence 2.0](LICENSE). You're free to use, modify, and distribute the content provided clear attribution is made.
+
+Please cite as follows:
+
+```bibtex
+@misc{Thomson2025NSE,
+  author = {Riley Thomson},
+  title = {Nondual Structural Emotivism (NSE): A Metaethical Framework for Emotional-Intuitive Coherence in Conscious Moral Life},
+  year = {2025},
+  url = {https://github.com/<your_username>/Nondual-Structural-Emotivism}
+}
+
 
